@@ -40,7 +40,7 @@ class ProductListScreen extends StatelessWidget {
             child: ListTile(
               leading: Container(
                 width: 100,
-                height: 100,
+                height: 200,
                 color: product.color,
                 child: Center(
                   child: Text(
